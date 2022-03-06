@@ -76,7 +76,7 @@ player = {
 }
 
 game = {
-    "title": `***DEFEND THE PLANET***\n\nYOU: HULL: ${player.hull}, ATTACK: ${player.firepower}, ACCURACY: ${player.accuracy}\nVS.\nALIEN: HULL: ${alien.hull}, ATTACK: ${alien.firepower}, ACCURACY: ${alien.accuracy}`,
+    "title": `***DEFEND THE PLANET!***\n\nYOU: HULL: ${player.hull}, ATTACK: ${player.firepower}, ACCURACY: ${player.accuracy}\nVS.\nALIEN: HULL: ${alien.hull}, ATTACK: ${alien.firepower}, ACCURACY: ${alien.accuracy}`,
     // "quit": 0,
     "attack": 1,
     "retreat": 2,
